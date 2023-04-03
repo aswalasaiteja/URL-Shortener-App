@@ -1,5 +1,6 @@
 This is a django appliaction. Which uses cryptographic algorithm to shorten the large urls. 
-There are two ways to shorten the URL.
+
+We can shorten the URL in two ways:
 1. Generate a random 5 character URL.
 2. Generate a customised short URL.
 
